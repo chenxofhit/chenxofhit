@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chenxofhit
 - 👀 I’m interested in bioinformatics
-- 📫 How to reach me ... click [Website](chenxofhit.xyz) or chenxofhit@gmail.com
+- 📫 How to reach me ... click [Website](https://chenxofhit.xyz) or chenxofhit@gmail.com
 
 <!---
 chenxofhit/chenxofhit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
